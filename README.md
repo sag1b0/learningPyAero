@@ -1,2 +1,3 @@
-# learningPyAero
-I'm learning python from the course "Python for Aerospace" by, Angelina Tsuboi. Here I will mainly upload my handwritten notes, few lines of codes and all which I'll learn from the course so far.
+# Course Link 👇🏽
+
+[![Python for Aerospace | FREE 10 Hour Comprehensive Python Course](https://i.ytimg.com/vi/V4jXVrUJsfM/maxresdefault.jpg)](https://youtu.be/V4jXVrUJsfM?si=sKKQwLQFhYDDwCVp)
